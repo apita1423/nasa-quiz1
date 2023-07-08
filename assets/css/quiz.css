@@ -4,6 +4,7 @@
     width: 100%;
     font-size: 1.8rem;
     border: 0.1rem solid #F8E16C;
+    border-radius: 10rem;
 }
 
 .answers-container:hover {
@@ -15,6 +16,7 @@
     padding: 1.5rem 2.5rem;
     background-color: #F8E16C;
     color: #1D3557;
+    border-radius: 10rem;
 }
 
 .answers-text {
