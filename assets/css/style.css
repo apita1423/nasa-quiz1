@@ -86,3 +86,8 @@ text-center {
     color: #F8E16C;
     background-color: #1D3557;
 }
+
+.launch-btn:hover {
+    cursor: pointer;
+    transform: translateY(-0.1rem);
+}
